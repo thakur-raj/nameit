@@ -25,7 +25,7 @@ const Header = ({ headTitle, headerExpanded }) => {
                 <h3>
                     Welcome to Name It! <br />
                     You can use this app to generate cool names for you new
-                    projects ans startup.
+                    projects and startup.
                     <br /> Just type in your keywords.
                 </h3>
             ) : null}
